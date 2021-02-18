@@ -100,5 +100,6 @@ public class MainActivity extends AppCompatActivity implements Listener, Locatio
     @Override
     public void locationData(LocationData locationData) {
         location.setText(locationData.getFull_address());
+
     }
 }

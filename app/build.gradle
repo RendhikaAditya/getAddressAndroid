@@ -32,4 +32,5 @@ dependencies {
     implementation project(':easywaylocation')
     implementation 'com.google.android.gms:play-services-maps:17.0.0'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.github.prabhat1707:EasyWayLocation:2.0'
 }
